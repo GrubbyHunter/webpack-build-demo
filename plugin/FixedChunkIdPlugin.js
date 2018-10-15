@@ -2,8 +2,7 @@
  * NamedChunkdsPlugin
  * webpack 插件 -- 命名Chunk ids
  * 
- * @copyright http://m.wingontravel.com
- * @author    王骁 <wangxiao@ctrip.com>
+ * @copyright
  */
 
 module.exports = class FixedChunkIdPlugin {
